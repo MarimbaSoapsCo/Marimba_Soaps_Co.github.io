@@ -183,7 +183,7 @@
     </div>
 
     <div class="section marimba-reasons">
-      <h2>Why Buy Marimba & Bathing Detergents</h2>
+      <h2>Why Buy Marimba Bathing soaps Laundry Soaps & Bathing Detergents</h2>
       <p>Choosing Marimba means supporting authentic Zimbabwean craftsmanship — locally made soap that honors our heritage while delivering quality you can trust.</p>
       <ul>
         <li><strong>Zimbabwean Heritage:</strong> Made proudly in Zimbabwe, supporting local businesses and communities in Dangamvura, Mutare.</li>
