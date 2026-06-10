@@ -275,6 +275,11 @@
             <img src="lemon-soap.jpg" alt="Lemon Soap">
             <h3>Lemon Soap</h3>
             <p>Fresh lemon soap that cleanses and brightens skin.</p>
+            <div class="product">
+  <img src="african-black-soap.jpg" alt="African Black Soap">
+  <h3>Heaven Black Soap</h3>
+  <p>A rich African black soap for bathing, made for a smooth, refreshing cleanse and soft, healthy skin.</p>
+</div>
           </div>
         </div>
       </div>
